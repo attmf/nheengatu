@@ -1,0 +1,121 @@
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe.config
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\bin\Debug\Desktop App.pdb
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\bin\Debug\Core.dll
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\bin\Debug\Core.pdb
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Administracao.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Historico.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Loading.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Login.resources
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.GenerateResource.cache
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.CopyComplete
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop App.exe
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Desktop\obj\Debug\Desktop App.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe.config
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.exe
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.dll
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Administracao.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Historico.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Loading.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Login.resources
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe.config
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.exe
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.pdb
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.dll
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.pdb
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Administracao.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Historico.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Loading.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Login.resources
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe.config
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.exe
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.dll
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Administracao.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Historico.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Loading.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Login.resources
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe.config
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.exe
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop App.pdb
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Administracao.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Historico.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Loading.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop_app.Login.resources
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.exe
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Desktop App.pdb
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.dll
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Desktop\bin\Debug\Core.pdb
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\bin\Debug\Desktop App.exe.config
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop App.exe
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop App.pdb
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\bin\Debug\Desktop App.exe
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\bin\Debug\Desktop App.pdb
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\bin\Debug\Core.dll
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\bin\Debug\Core.pdb
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Administracao.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Historico.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Loading.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop_app.Login.resources
+C:\Users\aluno\Desktop\nheenga\C#\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\bin\Debug\Desktop App.exe.config
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop App.exe
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop App.pdb
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\bin\Debug\Desktop App.exe
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\bin\Debug\Desktop App.pdb
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\bin\Debug\Core.dll
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\bin\Debug\Core.pdb
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Administracao.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Atendimento.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Agendamentos.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Mensageiro.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Historico.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Cadastro.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Loading.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop_app.Login.resources
+C:\Users\admin\Desktop\nheenga new\C#\Desktop\obj\Debug\Desktop.csproj.GenerateResource.Cache

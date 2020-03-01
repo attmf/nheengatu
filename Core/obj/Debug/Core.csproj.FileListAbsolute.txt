@@ -1,0 +1,36 @@
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\bin\Debug\Core.dll
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\bin\Debug\Core.pdb
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\obj\Debug\Core.dll
+C:\Users\Thaís e Emerson\Downloads\NHEENGATU V2\Core\obj\Debug\Core.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.dll
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.pdb
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.dll
+C:\Users\aluno\Desktop\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.pdb
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.dll
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.pdb
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.dll
+F:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.dll
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.pdb
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.dll
+I:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.pdb
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.dll
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\bin\Debug\Core.pdb
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.dll
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.pdb
+J:\1\Nheengatu Casa Emerson\NHEENGATU V2\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\nheenga\C#\Core\bin\Debug\Core.dll
+C:\Users\aluno\Desktop\nheenga\C#\Core\bin\Debug\Core.pdb
+C:\Users\aluno\Desktop\nheenga\C#\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\nheenga\C#\Core\obj\Debug\Core.dll
+C:\Users\aluno\Desktop\nheenga\C#\Core\obj\Debug\Core.pdb
+C:\Users\admin\Desktop\nheenga new\C#\Core\bin\Debug\Core.dll
+C:\Users\admin\Desktop\nheenga new\C#\Core\bin\Debug\Core.pdb
+C:\Users\admin\Desktop\nheenga new\C#\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\nheenga new\C#\Core\obj\Debug\Core.dll
+C:\Users\admin\Desktop\nheenga new\C#\Core\obj\Debug\Core.pdb
